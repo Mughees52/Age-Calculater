@@ -1,0 +1,6 @@
+c:\users\dexter\documents\visual studio 2013\Projects\agetest\agetest\bin\Debug\agetest.exe.config
+c:\users\dexter\documents\visual studio 2013\Projects\agetest\agetest\bin\Debug\agetest.exe
+c:\users\dexter\documents\visual studio 2013\Projects\agetest\agetest\bin\Debug\agetest.pdb
+c:\users\dexter\documents\visual studio 2013\Projects\agetest\agetest\obj\Debug\agetest.csprojResolveAssemblyReference.cache
+c:\users\dexter\documents\visual studio 2013\Projects\agetest\agetest\obj\Debug\agetest.exe
+c:\users\dexter\documents\visual studio 2013\Projects\agetest\agetest\obj\Debug\agetest.pdb
